@@ -1,0 +1,306 @@
+.logIn_Box{
+   width: 450px;
+   color: rgb(69, 0, 134);
+   padding: 30px;
+   border-radius: 5px;
+   background-image: url("images/login-bg.jpg");
+   background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
+   box-shadow: 0px 0px 10px 0px rgb(0, 0, 0);
+   border-radius: 20px;
+   
+}
+
+.logIn_body{
+   display: flex;
+   justify-content: center;
+   height: 100vh;
+   align-items: center;
+   background-image: url("images/bg_body_1.jpg");
+   background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
+
+}
+
+.logo{
+   background-image: url("images/logo.png");
+   height: 100px;
+   background-size: contain;
+   background-repeat: no-repeat;
+   margin-left: 10px;
+   background-position: center;
+ 
+}
+ 
+
+.register_Box{
+   height: 650px;
+   color: rgb(69, 0, 134);
+   padding: 20px;
+   border-radius: 5px;
+   box-shadow: 0px 0px 10px 0px rgb(1, 1, 1);
+   background-image: url("images/login-bg.jpg");
+   background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
+   border-radius: 20px;
+}
+
+.adminLogInBody{
+   background-image: url("images/bg_body_2.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+   display: flex;
+   justify-content: center;
+   height: 100vh;
+   align-items: center;
+}
+
+.adminLogIn_Box{
+   width: 380px;
+   padding: 20px;
+   border-radius: 5px;
+   background-image: url("images/admin_login_box.jpg");
+   box-shadow: 0px 0px 80px 0px rgb(8, 2, 2);
+}
+
+.adminBody{
+   display: flex;
+   justify-content: center;
+   background-color: rgb(60, 59, 59);
+   height: 100vh;
+   align-items: center;
+}
+
+.admin_h2{
+   font-family: 'Times New Roman', Times, serif;
+   color: rgb(203, 203, 255);
+}
+
+.admin_h3{
+   font-family: 'Times New Roman', Times, serif;
+   color: rgb(203, 203, 255);
+}
+
+
+.umBody{
+   display: flex;
+   justify-content: center;
+   background-color: rgb(75, 100, 103);
+   height: 100vh;
+   align-items: center;
+}
+
+.stkadminBody{
+   display: flex;
+   justify-content: center;
+   background-color: rgb(4, 0, 65);
+   height: 100vh;
+   align-items: center;
+}
+
+.nav_head{
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.card{
+   width: 350px;
+   height: 220px;
+   background: transparent;
+}
+
+.dash_Body{
+   display: flex;
+   justify-content: center;
+   background-color: rgb(64, 5, 48);
+   height: 100vh;
+   align-items: center;
+}
+
+.stk_Body{
+   display: flex;
+   justify-content: center;
+   background-color: rgb(0, 44, 102);
+   height: 100vh;
+   align-items: center;
+}
+
+
+.pm_btn{
+   margin-left: 60px;
+}
+
+.rp_btn{
+   margin-left: 100px;
+}
+
+.apBody{
+   display: flex;
+   justify-content: center;
+   background-color: rgb(63, 44, 24);
+   height: 100vh;
+   align-items: center;
+}
+
+.thead{
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+   font-size: 18px;
+}
+
+.pr_box{
+
+   width: 550px;
+   color: rgb(255, 123, 0);
+   padding: 30px;
+   border-radius: 5px;
+   background-image: url("images/astck.jpg");
+   background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
+   box-shadow: 0px 0px 10px 0px rgb(0, 0, 0);
+   border-radius: 20px;
+   
+}
+
+.stk_box{
+
+   width: 500px;
+   height: 400px;
+   margin-left: 230px;
+   margin-top: 70px;
+   color: rgb(255, 60, 0);
+   padding: 30px;
+   border-radius: 5px;
+   background-image: url("images/stk_updt.jpg");
+   background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
+   box-shadow: 0px 0px 10px 0px rgb(0, 0, 0);
+   border-radius: 20px;
+   
+}
+
+.p_text{
+   color: blue;
+}
+
+.crd_img{
+   height: 20px;
+   width: 35px;
+}
+
+.admin_h3{
+   margin-top: -50px;
+}
+
+.rep_btn{
+   margin-left: 75px;
+   margin-top: 20px;
+
+}
+
+.card-rep{
+   width: 250px;
+   height: 20px;
+   
+}
+
+.report_row{
+   margin-left: 50px;
+   justify-content: center;
+}
+
+.rpo-btn{
+   margin-left: 60px;
+}
+
+.adminrepBody{
+   display: flex;
+   justify-content: center;
+   background-color: rgb(3, 64, 28);
+   height: 100vh;
+   align-items: center;
+}
+
+.main_bdy{
+   background-color: bisque;
+}
+
+.main_nav{
+   background-color: rgb(100, 98, 98);
+}
+.lgot{
+   margin-right: 35px;
+}
+
+.uico{
+   margin-right: 25px;
+}
+
+.mico{
+   margin-left: 60px;
+}
+
+.c-s{
+   background-size: cover;
+   height: 500px;
+   width: 500px;
+   margin-top: 20px;
+}
+
+.search_bar{
+   margin-top:75px;
+
+}
+.cursal_txt_color{
+   color: rgb(255, 0, 0);
+}
+
+.profile_btn{
+   margin-left: 90px;
+
+}
+
+.single_product_Body{
+
+   display: flex;
+   justify-content: center;
+   background-color: rgb(242, 211, 7);
+   height: 100vh;
+   align-items: center;  
+}
+ 
+
+
+.imgs{
+   width: 300px;
+}
+
+.profile_Body{
+   display: flex;
+   justify-content: center;
+   background-color: rgb(154, 31, 0);
+   height: 100vh;
+   align-items: center;
+
+}
+
+.profile_box{
+
+   color: rgb(255, 59, 196);
+   padding: 30px;
+   border-radius: 5px;
+   background-image: url("images/profi_im.jpg");
+   background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
+   box-shadow: 0px 0px 10px 0px rgb(0, 0, 0);
+   border-radius: 20px;
+
+}
+
+.card-body_as{
+   color: rgb(61, 65, 8);
+}
